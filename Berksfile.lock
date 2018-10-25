@@ -1,0 +1,7 @@
+DEPENDENCIES
+  DB
+    path: .
+    metadata: true
+
+GRAPH
+  DB (0.1.0)
